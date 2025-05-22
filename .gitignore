@@ -1,0 +1,5 @@
+__pycache__/
+**/__pycache__
+langchain_manager/services/__pycache__/
+langchain_manager/models/__pycache__/
+.vscode/
